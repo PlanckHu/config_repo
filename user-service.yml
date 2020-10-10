@@ -1,0 +1,5 @@
+
+info:	
+  address:
+    - {name: AA, info: [A1, A2, A3, A6]}
+    - {name: B, info: [B1, B2, B3, BBFFS]}
